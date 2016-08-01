@@ -62,7 +62,7 @@ nav ul li
 
 .header-wrapper{
 
-	background: url('https://cloud.githubusercontent.com/assets/20765403/17284510/e3be48e6-5780-11e6-99ab-c502b91d72d8.jpg') no-repeat center;
+	background: url("https://cloud.githubusercontent.com/assets/20765403/17284510/e3be48e6-5780-11e6-99ab-c502b91d72d8.jpg") no-repeat center;
 	background-size: cover;
 	height: 600px;
 	border-top: 10px solid  #CC0000;
